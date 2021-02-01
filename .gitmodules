@@ -1,0 +1,3 @@
+[submodule "catkin_ws/src/EZGripper"]
+	path = catkin_ws/src/EZGripper
+	url = https://github.com/SAKErobotics/EZGripper.git
